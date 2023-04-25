@@ -1,0 +1,142 @@
+[{
+    
+    "name": "School Uniform",
+    "description": "The official attire for the school which is usually a shirt, pants/skirt, and a tie.",
+    "amount": 50,
+    "imageUrl": "https://pin.it/2QVjS75"
+  },
+  {
+    
+    "name": "Textbooks",
+    "description": "Required reading and reference materials for the courses being taken",
+    "amount": 200,
+    "imageUrl": "https://pin.it/2fU6Po9"
+  },
+  {
+   
+    "name": "Stationery",
+    "description": "Writing materials such as pencils, pens, erasers, rulers, and sharpeners.",
+    "amount": 20,
+    "imageUrl": "https://pin.it/2dzSCWG"
+  },
+  {
+   
+    "name": "Backpack",
+    "description": "A bag for carrying textbooks, stationery, and other school supplies.",
+    "amount": 40,
+    "imageUrl": "https://pin.it/2kb2RRt"
+  },
+  {
+    
+    "name": "Lunchbox",
+    "description": "A container for carrying lunch to school. ",
+    "amount": 15,
+    "imageUrl": "https://pin.it/3hdaeNg"
+  },
+  {
+   
+    "name": "School Shoes",
+    "description": "A pair of comfortable shoes that are suitable for school.",
+    "amount": 60,
+    "imageUrl": "https://pin.it/3MNEs5d"
+  },
+  
+  {
+   
+    "name": "Sportswear",
+    "description": "Athletic clothing and shoes that are needed for physical education classes and sports teams.",
+    "amount": 100,
+    "imageUrl": "https://pin.it/5gTt49z"
+  },
+  {
+   
+    "name": "Calculator",
+    "description": "A tool for performing mathematical calculations.",
+    "amount": 30,
+    "imageUrl": "https://pin.it/v3nkbCc"
+  },
+  {
+   
+    "name": "Art Supplies",
+    "description": "Materials such as paints, brushes, and canvas for art classes.",
+    "amount": 50,
+    "imageUrl": "https://pin.it/2KS2ds2"
+  },
+  {
+   
+    "name": "Music Supplies",
+    "description": "Instruments and sheet music for music classes.",
+    "amount": 100,
+    "imageUrl": "https://pin.it/3MNEs5d"
+  },
+  {
+   
+    "name": "Science Equipment",
+    "description": "Materials for conducting experiments in science classes, such as beakers and test tubes. ",
+    "amount": 100,
+    "imageUrl": "https://pin.it/6cSHWpK"
+  },
+  {
+   
+    "name": "Scientific Calculator ",
+    "description": " A calculator designed for scientific and engineering calculations.",
+    "amount": 50,
+    "imageUrl": "https://pin.it/2H5hlEQ"
+  },
+  {
+   
+    "name": "Internet Connection",
+    "description": "A reliable internet connection for online classes and research.",
+    "amount": 60,
+    "imageUrl": "https://pin.it/3lnH1kr"
+  },
+  {
+   
+    "name": "Sports Team Fees",
+    "description": "The fees for joining a school sports team.",
+    "amount": 200,
+    "imageUrl": "https://pin.it/3x4xBZt"
+  },
+  {
+   
+    "name": "Computer",
+    "description": "A laptop or desktop computer for schoolwork.",
+    "amount": 250,
+    "imageUrl": "https://pin.it/2YCbHCf"
+  },
+  {
+   
+    "name": "Club Fees",
+    "description": " The fees for joining a school club such as debate club or chess club.",
+    "amount": 20,
+    "imageUrl": "https://pin.it/4oVKmZd"
+  },
+  {
+   
+    "name": "Graduation Fees",
+    "description": "The fees for graduation ceremonies such as cap and gown rentals",
+    "amount": 100,
+    "imageUrl": "https://pin.it/2tAA5js"
+  },
+  {
+   
+    "name": "Online Course Subscription",
+    "description": "A subscription to an online course provider such as Coursera or Udemy.",
+    "amount": 100,
+    "imageUrl": "https://pin.it/5FSm3pw"
+  },
+  {
+   
+    "name": "Headphones ",
+    "description": "A set of earphones for listening to audio content in class. ",
+    "amount": 30,
+    "imageUrl": "https://pin.it/6QRF9OG"
+  },
+  {
+   
+    "name": "Glue",
+    "description": "Glue is an adhesive substance used for sticking things together. It can be used to repair or create various school items such as notebooks, folders, and artwork. Glue comes in various forms such as liquid, stick, or gel.",
+    "amount": 5,
+    "imageUrl": "https://pin.it/5KYj17S"
+  }
+]
